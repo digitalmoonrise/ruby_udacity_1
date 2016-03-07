@@ -1,0 +1,9 @@
+Goals:
+
+1. Complete this and subsequent ruby courses.
+2. Gain the ability to deploy something functional.
+3. Get involved with local Ruby community. (Austin)
+4. Think of something cool and/or helpful to build and then build it.
+5. Understand how to harness APIs. 
+6. Leave current career and dedicate a couple months to rigorous study. 
+7. Find job as ruby engineer and continue to learn. 
